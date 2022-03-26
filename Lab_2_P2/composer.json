@@ -1,0 +1,16 @@
+{
+  "name": "restfull/labtwo",
+  "description": "RESTFul web service Part 1",
+  "license": "MIT",
+  "require": {
+    "illuminate/database": "*"
+  },
+  "autoload": {
+    "classmap": [
+      "Model"
+    ],
+    "files": [
+      "config.php"
+    ]
+  }
+}
